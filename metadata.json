@@ -1,0 +1,5 @@
+{
+  "name": "AI Job Interview Prep Agent",
+  "description": "An AI-powered agent that generates a comprehensive interview preparation guide for any company, including real interview questions, coding analysis, role insights, sample answers, a study plan, and salary expectations.",
+  "requestFramePermissions": []
+}
